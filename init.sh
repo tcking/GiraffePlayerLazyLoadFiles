@@ -1,4 +1,4 @@
-playerVersion=0.8.8
+playerVersion=0.8.8-full
 rm -r $playerVersion
 mkdir $playerVersion
 cp -R ../ijkplayer_tc/android/ijkplayer/ijkplayer-*/src/main/libs/* $playerVersion
